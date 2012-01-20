@@ -1,0 +1,3 @@
+<?php
+
+include_once('asc_feature_views.features.inc');
